@@ -1,0 +1,15 @@
+table {
+	border-collapse: collapse;
+	border: 2px solid red;
+	text-align: center;
+}
+
+th {
+	background: pink;
+}
+
+th, td {
+	height: 25px;
+	width: 40px;
+	border: 2px solid red;
+}
